@@ -15,6 +15,11 @@ html {
   box-sizing: border-box;
 }
 
+a,a:hover {
+  text-decoration: none;
+  cursor: pointer;
+}
+
 h1 {
   color: #666666;
 }
@@ -40,6 +45,31 @@ a {
 #app{
   height: 100%;
 }
+
+.el-header {
+  background: #303d4a;
+}
+
+.el-main {
+  background: #eeeeee;
+}
+
+.el-footer {
+  background: #303d4a;
+}
+
+.el-col-offset-2 {
+  margin-left: 16px;
+}
+
+.el-menu--horizontal>.el-menu-item:nth-last-child(1) {
+  float: right;
+}
+
+.slider {
+  background: #303d4a;
+}
+
 
 .homepage {
   background-repeat: no-repeat;
