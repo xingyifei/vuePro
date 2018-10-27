@@ -1,0 +1,8 @@
+{
+  "imgList": [
+    {"imgurl": "require('../../assets/logo.png')"},
+    {"imgurl": "require('../../assets/home1.jpg')"},
+    {"imgurl": "require('../../assets/home2.jpg')"},
+    {"imgurl": "require('../../assets/home3.jpg')"}
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "imgList": [
+    {"imgurl": "require('../../assets/img1.jpg')"},
+    {"imgurl": "require('../../assets/img4.jpg')"},
+    {"imgurl": "require('../../assets/img2.jpg')"},
+    {"imgurl": "require('../../assets/img3.jpg')"}
+  ],
+  "articleList": [
+    {
+      "id": 1,
+      "title": "英文作文",
+      "txt": "Nowadays, many teenagers are crazy about the young idols, and they support their idols by all their hearts. They are attracted by the beautiful faces, the dance and singing skills. But for me, the person I admire the most is my father. He is always the hero in my heart. 现在，很多青少年都为年轻的偶像而疯狂，他们全心全意地支持他们的偶像，被他们美丽的脸庞、舞蹈和歌唱技巧所吸引。但是对我来说，我最崇拜的人是我的父亲，他一直是我心中的英雄。My father is a typical father, who is not talking much, but the things he does for me will never less. My father never misses the important moment for me. When school needs parents to present at the meeting, no matter how busy he is, my father will always one of the members. When other students are complaining about their fathers, I feel so lucky to get enough care from him."
+    },
+    {
+      "id": 2,
+      "title": "随笔",
+      "txt": "saj少时诵诗书所所所所所所所所所所所所所所所所"
+    },
+    {
+      "id": 3,
+      "title": "随笔",
+      "txt": "saj少时诵诗书所所所所所所所所所所所所所所所所"
+    },
+    {
+      "id": 4,
+      "title": "随笔",
+      "txt": "saj少时诵诗书所所所所所所所所所所所所所所所所"
+    },
+    {
+      "id": 5,
+      "title": "随笔",
+      "txt": "saj少时诵诗书所所所所所所所所所所所所所所所所"
+    },
+    {
+      "id": 6,
+      "title": "随笔",
+      "txt": "saj少时诵诗书所所所所所所所所所所所所所所所所"
+    },
+    {
+      "id": 7,
+      "title": "随笔",
+      "txt": "saj少时诵诗书所所所所所所所所所所所所所所所所"
+    },
+    {
+      "id": 8,
+      "title": "随笔",
+      "txt": "saj少时诵诗书所所所所所所所所所所所所所所所所"
+    },
+    {
+      "id": 9,
+      "title": "随笔",
+      "txt": "saj少时诵诗书所所所所所所所所所所所所所所所所"
+    },
+    {
+      "id": 10,
+      "title": "随笔",
+      "txt": "saj少时诵诗书所所所所所所所所所所所所所所所所"
+    },
+    {
+      "id": 11,
+      "title": "随笔",
+      "txt": "saj少时诵诗书所所所所所所所所所所所所所所所所"
+    },
+    {
+      "id": 12,
+      "title": "随笔",
+      "txt": "saj少时诵诗书所所所所所所所所所所所所所所所所"
+    },
+    {
+      "id": 13,
+      "title": "随笔",
+      "txt": "saj少时诵诗书所所所所所所所所所所所所所所所所"
+    }
+  ]
+}
