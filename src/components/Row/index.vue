@@ -5,6 +5,9 @@
     show-alpha
     :predefine="predefineColors">
   </el-color-picker>
+  <div style="width: 100%;height: 200px;">
+
+  </div>
 </div>
 </template>
 

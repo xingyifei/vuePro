@@ -31,7 +31,6 @@
     },
     methods: {
       clickfunc(e) {
-        console.log(e, this)
         this.$router.push({
           path: `/article/${e}`
         })
