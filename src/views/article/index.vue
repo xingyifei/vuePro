@@ -1,5 +1,7 @@
 <template>
-  <div>{{this.txt[0].txt}}</div>
+  <div>
+    <div>{{this.txt}}</div>
+  </div>
 </template>
 
 <script>
@@ -13,11 +15,11 @@
       this.$store.dispatch("getarticleList")
       let arr = this.$store.state.articleList
       let type = this.$route.params.id
-      this.txt = arr.filter((item, index) => {
+      let txtarr = arr.filter((item, index) => {
         return item.id == type
       })
-      console.log(this.txt)
-
+      console.log(txtarr[0].txt)
+      this.txt = txtarr[0].txt
     },
     methods: {
       

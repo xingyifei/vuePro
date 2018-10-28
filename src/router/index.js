@@ -5,7 +5,7 @@ Vue.use(VueRouter)
 
 export const constantRouteMap = [
   {
-    path: '/',
+    path: '/', // 首页
     component: () => import('@/views/hello/index'),
     hidden: true,
     children: [
@@ -16,12 +16,17 @@ export const constantRouteMap = [
     ]
   },
   {
-    path: '/article/:id',
+    path: '/me', // 个人信息
+    component: () => import('@/views/showme/index'),
+    hidden: true,
+  },
+  {
+    path: '/article/:id', // 文章展示
     hidden: true,
     component: () => import('@/views/article/index'),
   },
   {
-    path: '/home',
+    path: '/home', // 新页面
     component: () => import('@/views/login/index'),
     hidden: true
   }

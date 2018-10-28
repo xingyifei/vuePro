@@ -13,10 +13,10 @@
       <el-menu-item index="3"><a href="https://github.com/nnqiu" target="_blank">github</a></el-menu-item>
       <el-menu-item index="4"><router-link to="/home">home</router-link></el-menu-item>
       <el-menu-item index="5">
-        <i class="el-icon-service"></i>
-        <i class="el-icon-setting"></i>
-        <img class="header-img" src="../../assets/header.jpg" alt="">
-      </el-menu-item>
+        <router-link to="/me">
+          <img class="header-img" src="../../assets/header.jpg" alt="">
+        </router-link>       
+      </el-menu-item>                                                                                         
     </el-menu>
   </el-header>
 </template>
